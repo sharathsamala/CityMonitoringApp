@@ -1,0 +1,11 @@
+tensorflow
+tensorflow-hub
+exifread
+gpsphoto
+Pillow
+piexif
+gmplot
+numpy
+matplotlib
+folium
+IPython
